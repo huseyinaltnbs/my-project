@@ -1,0 +1,35 @@
+﻿# VS geçici dosyalar
+.vs/
+*.user
+*.suo
+*.vssscc
+
+# Build çıktıları
+bin/
+obj/
+
+# Visual Studio'nun kendi dosyaları
+.vsidx
+
+# NuGet paketleri ve kütüphane dosyaları
+/packages/
+/bin/
+/obj/
+
+# Visual Studio geçici dosyaları
+.vs/
+*.user
+*.suo
+*.vssscc
+
+# Log dosyaları
+*.log
+
+# Windows ThumbCache
+Thumbs.db
+# Büyük dosyaları ignore et
+*.zip
+*.tar
+*.exe
+*.dll
+*.bak
